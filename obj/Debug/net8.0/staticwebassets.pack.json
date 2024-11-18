@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\reels\\reels-system\\wwwroot\\videos\\6a8b9241-b2a4-4e2c-8064-b62294bd1faa.mp4",
+      "PackagePath": "staticwebassets\\videos\\6a8b9241-b2a4-4e2c-8064-b62294bd1faa.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.reels-system.props",
+      "PackagePath": "build\\reels-system.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.reels-system.props",
+      "PackagePath": "buildMultiTargeting\\reels-system.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.reels-system.props",
+      "PackagePath": "buildTransitive\\reels-system.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.reels-system.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

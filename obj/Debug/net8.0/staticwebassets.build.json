@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "xz+FJ3Xo/0sl1D0ZlGHstRmQjpn1/X7M3vnEx1Izuus=",
+  "Source": "reels-system",
+  "BasePath": "_content/reels-system",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "reels-system\\wwwroot",
+      "Source": "reels-system",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\reels\\reels-system\\wwwroot\\",
+      "BasePath": "_content/reels-system",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

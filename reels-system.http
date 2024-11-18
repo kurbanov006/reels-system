@@ -1,0 +1,6 @@
+@reels_system_HostAddress = http://localhost:5096
+
+GET {{reels_system_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
